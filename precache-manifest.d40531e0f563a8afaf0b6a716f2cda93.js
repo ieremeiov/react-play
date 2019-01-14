@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/react-play/static/css/1.867ae01e.chunk.css"
   },
   {
-    "revision": "d3a8ce156e5a5c87de5bc6f532561748",
+    "revision": "7c3a42b3af0f857def1f51f9b38032a0",
     "url": "/react-play/index.html"
   }
 ];
